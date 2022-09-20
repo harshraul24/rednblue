@@ -1,0 +1,47 @@
+C:\Users\Dummy\AppData\Local\Programs\Python\Python310\python.exe C:\Users\Dummy\Downloads\RB\testing.py 
+---- C:\Users\Dummy\Downloads\RB\red_ttp\at_command.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\certutil_file_obfuscation.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\certutil_webrequest.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\delete_catalogs.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\delete_usnjrnl.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\delete_volume_shadows.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\disable_windows_fw.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\enum_commands.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\findstr_pw_search.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\get_clipboard.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\installutil_network.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\lateral_commands.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\msbuild_network.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\mshta_network.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\msiexec_http_installer.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\msxsl_network.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\net_user_add.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\office_application_startup.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\persistent_scripts.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\powershell_args.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\process_extension_anomalies.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\process_name_masquerade.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\record_sound.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\recycle_bin_process.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\registry_hive_export.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\registry_persistence_create.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\regsvr32_scrobj.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\rundll32_inf_callback.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\rundll32_ordinal.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\schtask_escalation.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\scrobj_com_hijack.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\sip_provider.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\smb_connection.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\suspicious_office_children.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\system_restore_process.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\trust_provider.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\uac_eventviewer.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\uac_sdclt.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\unusual_ms_tool_network.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\unusual_parent.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\unusual_process_path.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\user_dir_escalation.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\wevtutil_log_clear.py ----
+---- C:\Users\Dummy\Downloads\RB\red_ttp\wmi_tool_execution.py ----
+
+Process finished with exit code 0
